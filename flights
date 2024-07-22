@@ -1,0 +1,21 @@
+flight_no,airline,departure_time,price,seats_available
+AA101,American Airlines,2023-07-01 08:00:00,350.75,50
+DL202,Delta Airlines,2023-07-02 09:30:00,400.5,45
+UA303,United Airlines,2023-07-03 11:00:00,375.0,48
+SW404,Southwest Airlines,2023-07-04 12:15:00,325.25,55
+AA105,American Airlines,2023-07-05 14:45:00,360.0,60
+DL206,Delta Airlines,2023-07-06 16:30:00,420.0,42
+UA307,United Airlines,2023-07-07 18:00:00,390.75,50
+SW408,Southwest Airlines,2023-07-08 19:45:00,330.5,52
+AA109,American Airlines,2023-07-09 21:00:00,355.25,49
+DL210,Delta Airlines,2023-07-10 22:15:00,405.0,47
+UA311,United Airlines,2023-07-11 23:30:00,380.0,53
+SW412,Southwest Airlines,2023-07-12 07:00:00,320.75,54
+AA113,American Airlines,2023-07-13 08:15:00,365.5,58
+DL214,Delta Airlines,2023-07-14 09:45:00,410.25,44
+UA315,United Airlines,2023-07-15 11:00:00,385.0,51
+SW416,Southwest Airlines,2023-07-16 12:30:00,335.75,56
+AA117,American Airlines,2023-07-17 14:00:00,370.0,57
+DL218,Delta Airlines,2023-07-18 15:30:00,415.0,43
+UA319,United Airlines,2023-07-19 17:00:00,395.5,49
+SW420,Southwest Airlines,2023-07-20 18:45:00,340.25,55
